@@ -1,0 +1,6 @@
+C:\Users\LOCAL-IJB\Documents\Visual Studio 2010\Projects\StoryTellingIntegrations\Arena.Custom.story\obj\Debug\Arena.Custom.story.csprojResolveAssemblyReference.cache
+C:\Users\LOCAL-IJB\Documents\Visual Studio 2010\Projects\StoryTellingIntegrations\Arena.Custom.story\bin\Debug\Arena.Custom.Story.dll.config
+C:\Users\LOCAL-IJB\Documents\Visual Studio 2010\Projects\StoryTellingIntegrations\Arena.Custom.story\bin\Debug\Arena.Custom.Story.dll
+C:\Users\LOCAL-IJB\Documents\Visual Studio 2010\Projects\StoryTellingIntegrations\Arena.Custom.story\bin\Debug\Arena.Custom.Story.pdb
+C:\Users\LOCAL-IJB\Documents\Visual Studio 2010\Projects\StoryTellingIntegrations\Arena.Custom.story\obj\Debug\Arena.Custom.Story.dll
+C:\Users\LOCAL-IJB\Documents\Visual Studio 2010\Projects\StoryTellingIntegrations\Arena.Custom.story\obj\Debug\Arena.Custom.Story.pdb
